@@ -1,7 +1,7 @@
 ![logo](https://github.com/alvinsidiq/alvinsidiq/blob/main/banner.png)
-![image](https://github.com/user-attachments/assets/a6435ca7-dfd1-4006-b5c5-804fe5e81d83)<h1 align="center">Hi 👋, I'm Muhammad Alvin Sidiq</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Alvin Sidiq</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-
+<img align="right" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinsidiq&label=Profile%20views&color=0e75b6&style=flat" alt="alvinsidiq" /> </p>
 
 - 🔭 I’m currently working on [Portofolio](https://alvinsidiq-portofolio.netlify.app/)
